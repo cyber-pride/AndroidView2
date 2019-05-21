@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AndroidView2</string>
+    <string name="savedata">Save Data</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="deletedata">Delete Data</string>
+    <string name="updatedata">Update Data</string>
+    <string name="savedateobject">Save Date Object</string>
+    <string name="nestedobject">Nested Object</string>
+    <string name="livedataandviewmodel">LiveData And ViewModel</string>
+    <string name="callback">Callback</string>
+    <string name="pagination">Pagination</string>
+    <string name="auth">Auth</string>
+    <string name="checkdata">Check Data</string>
+    <string name="singledata">Single Data</string>
+    <string name="limitdata">Limit Data</string>
+    <string name="populatedata">Populate Data</string>
+    <string name="spinner">Spinner</string>
+    <string name="multplequeries">Multiple Queries</string>
+    <string name="orderby">OrderBy</string>
+    <string name="batch">Batch</string>
+    <string name="deletemutiple">Delete Mutiple</string>
+    <string name="chain">Chain</string>
+    <string name="savedocument">Save Document</string>
+    <string name="deletedocument">Delete Document</string>
+    <string name="updatedocument">Update Document</string>
+    <string name="offlinecache">Offline Cache</string>
+    <string name="dateobject">Date Object</string>
+    <string name="nextedobject">Nexted Object</string>
+    <string name="checkdocument">Check Document</string>
+    <string name="singledocument">Single Document</string>
+    <string name="limitdocument">Limit Document</string>
+    <string name="populatedocument">Populate Document</string>
+    <string name="dexmerger">Dex Merger</string>
+</resources>

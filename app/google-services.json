@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863187373598",
+    "firebase_url": "https://androidview-a9b10.firebaseio.com",
+    "project_id": "androidview-a9b10",
+    "storage_bucket": "androidview-a9b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863187373598:android:ee8bd43eee67bbeb",
+        "android_client_info": {
+          "package_name": "com.bluapp.androidview2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863187373598-54kum26c8bf8j03k22h1lto0jg3k85nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluapp.androidview2",
+            "certificate_hash": "228008f7c62d48216121e0c6c01cd39b77493811"
+          }
+        },
+        {
+          "client_id": "863187373598-lef43e0rhods9hc7uof44jqp51f4n3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_a3DaJz_J5PWCbsEE1pOWX5G3Hz0_KLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863187373598-lef43e0rhods9hc7uof44jqp51f4n3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

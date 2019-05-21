@@ -1,0 +1,118 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_firebaseactivity2"
+        android:title="@string/savedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity3"
+        android:title="@string/deletedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity4"
+        android:title="@string/updatedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity5"
+        android:title="@string/savedateobject"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity6"
+        android:title="@string/nestedobject"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity7"
+        android:title="@string/livedataandviewmodel"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity8"
+        android:title="@string/callback"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity9"
+        android:title="@string/pagination"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity10"
+        android:title="@string/auth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity11"
+        android:title="@string/checkdata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity12"
+        android:title="@string/singledata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity13"
+        android:title="@string/limitdata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity14"
+        android:title="@string/populatedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity15"
+        android:title="@string/spinner"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity16"
+        android:title="@string/multplequeries"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity17"
+        android:title="@string/orderby"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity18"
+        android:title="@string/batch"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity19"
+        android:title="@string/deletemutiple"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebaseactivity20"
+        android:title="@string/chain"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

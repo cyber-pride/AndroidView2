@@ -1,0 +1,130 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_firestoreactivity2"
+        android:title="@string/savedocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity3"
+        android:title="@string/deletedocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity4"
+        android:title="@string/updatedocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity5"
+        android:title="@string/offlinecache"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity6"
+        android:title="@string/dateobject"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity7"
+        android:title="@string/nextedobject"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity8"
+        android:title="@string/livedataandviewmodel"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity9"
+        android:title="@string/callback"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity10"
+        android:title="@string/pagination"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity11"
+        android:title="@string/auth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity12"
+        android:title="@string/checkdocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity13"
+        android:title="@string/singledocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity14"
+        android:title="@string/limitdocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity15"
+        android:title="@string/populatedocument"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity16"
+        android:title="@string/spinner"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity17"
+        android:title="@string/multplequeries"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity18"
+        android:title="@string/orderby"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity19"
+        android:title="@string/dexmerger"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity20"
+        android:title="@string/batch"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity21"
+        android:title="@string/deletemutiple"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firestoreactivity22"
+        android:title="@string/chain"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

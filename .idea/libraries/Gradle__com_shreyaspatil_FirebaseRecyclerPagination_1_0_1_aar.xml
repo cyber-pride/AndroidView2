@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shreyaspatil:FirebaseRecyclerPagination:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/acd8c31c8c07c0781730875bb4c9f3b1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/acd8c31c8c07c0781730875bb4c9f3b1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shreyaspatil/FirebaseRecyclerPagination/1.0.1/c96213f09493c398fd4a75206566a440e92da7b6/FirebaseRecyclerPagination-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
