@@ -8,4 +8,16 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ChipTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="chipTextappearance" parent="TextAppearance.MaterialComponents.Chip">
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">@font/aspace_light</item>
+    </style>
+
 </resources>

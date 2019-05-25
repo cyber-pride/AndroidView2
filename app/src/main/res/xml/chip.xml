@@ -1,0 +1,7 @@
+<chip
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:checkable="false"
+    app:chipIcon="@drawable/ic_user"
+    app:iconStartPadding="5dp"
+    style="@style/Widget.MaterialComponents.Chip.Entry"/>

@@ -32,5 +32,18 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/androidchip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:onClick="AndroidChip"
+            android:layout_marginTop="1dp"
+            android:text="AndroidChip and GroupChip"
+            android:layout_below="@id/firestore"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
     </RelativeLayout>
 </ScrollView>

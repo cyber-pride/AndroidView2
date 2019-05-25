@@ -32,4 +32,23 @@
     <string name="limitdocument">Limit Document</string>
     <string name="populatedocument">Populate Document</string>
     <string name="dexmerger">Dex Merger</string>
+    <string name="filterchip">Filter Chip</string>
+    <string name="actionchip">Action Chip</string>
+    <string name="entrychip">Entry Chip</string>
+    <string name="onclick">OnClick</string>
+    <string name="checkedchange">Checked Change</string>
+    <string name="oncloseicon">OnCloseIcon</string>
+    <string name="dynamicchipgroup">Dynamic Chip Group</string>
+    <string name="spacechip">Space Chip</string>
+    <string name="singlechipselection">Single Chip Selection</string>
+    <string name="multiplechipselection">Multiple Chip Selection</string>
+    <string name="horizontalgroupchip">Horizontal GroupChip</string>
+    <string name="inputfieldchip">Input Field Chip</string>
+    <string name="getchiptext">Get Chip Text</string>
+    <string name="chiptextcolor">Chip TextColor</string>
+    <string name="deletechip">Delete Chip</string>
+    <string name="bordercolor">Border Color</string>
+    <string name="chipfontandtextsize">Chip Font And Textsize</string>
+    <string name="badgedrawable">BadgeDrawable</string>
+    <string name="badgenumber">Badge Number</string>
 </resources>

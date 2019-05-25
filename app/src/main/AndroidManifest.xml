@@ -16,7 +16,70 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Firestore.FirestoreActivity22"></activity>
+        <activity android:name=".ViewActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AndroidChip.AndroidChipActivity20" />
+        <activity android:name=".AndroidChip.AndroidChipActivity19" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity18"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity17"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity16"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity15"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity14"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity13"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity12"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity11"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity10"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity9"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity8"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity7"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity6"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity5"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity4"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity3"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity2"
+            android:theme="@style/ChipTheme" />
+        <activity
+            android:name=".AndroidChip.AndroidChipActivity1"
+            android:theme="@style/ChipTheme" />
+        <activity android:name=".Firestore.FirestoreActivity22" />
         <activity android:name=".Firestore.FirestoreActivity21" />
         <activity android:name=".Firestore.FirestoreActivity20" />
         <activity android:name=".Firestore.FirestoreActivity19" />
@@ -57,13 +120,6 @@
         <activity android:name=".Firebase.FirebaseActivity4" />
         <activity android:name=".Firebase.FirebaseActivity3" />
         <activity android:name=".Firebase.FirebaseActivity2" />
-        <activity android:name=".ViewActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
         <activity android:name=".Firebase.FirebaseActivity1" />
     </application>
 

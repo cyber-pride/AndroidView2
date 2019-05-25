@@ -1,0 +1,119 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_androidchipactivity2"
+        android:title="@string/filterchip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity3"
+        android:title="@string/actionchip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity4"
+        android:title="@string/entrychip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity5"
+        android:title="@string/onclick"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity6"
+        android:title="@string/checkedchange"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity7"
+        android:title="@string/oncloseicon"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity8"
+        android:title="@string/dynamicchipgroup"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity9"
+        android:title="@string/spacechip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity10"
+        android:title="@string/singlechipselection"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity11"
+        android:title="@string/multiplechipselection"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity12"
+        android:title="@string/horizontalgroupchip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity13"
+        android:title="@string/inputfieldchip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity14"
+        android:title="@string/getchiptext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity15"
+        android:title="@string/chiptextcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity16"
+        android:title="@string/deletechip"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity17"
+        android:title="@string/bordercolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity18"
+        android:title="@string/chipfontandtextsize"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity19"
+        android:title="@string/badgedrawable"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchipactivity20"
+        android:title="@string/badgenumber"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

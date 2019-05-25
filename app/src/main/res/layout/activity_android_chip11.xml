@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="15dp"
+    android:background="#CACACA">
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:singleSelection="false">
+        <com.google.android.material.chip.Chip
+            android:id="@+id/male"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_marginLeft="20dp"
+            android:text="Male"
+            app:checkedIconEnabled="true"
+            style="@style/Widget.MaterialComponents.Chip.Filter"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/female"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Female"
+            app:checkedIconEnabled="true"
+            style="@style/Widget.MaterialComponents.Chip.Filter"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/both"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Both"
+            android:textSize="20sp"
+            app:checkedIconEnabled="true"
+            style="@style/Widget.MaterialComponents.Chip.Filter"/>
+    </com.google.android.material.chip.ChipGroup>
+
+</RelativeLayout>
