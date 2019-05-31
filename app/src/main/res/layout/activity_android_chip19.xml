@@ -5,30 +5,11 @@
     android:padding="15dp"
     android:background="#CACACA">
 
-    <RelativeLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true">
-
-    <RelativeLayout
-        android:id="@+id/relativeLayout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
-        android:text="Notification"
-        android:textColor="#ffffff"/>
-    </RelativeLayout>
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/badge"
-        android:text="427"
+        android:text="BadgeDrawable"
         android:textSize="16sp"
-        android:layout_alignLeft="@id/relativeLayout"
-        android:textColor="#ffffff"/>
-    </RelativeLayout>
+        android:layout_centerInParent="true"
+        android:textColor="@color/colorPrimary"/>
 </RelativeLayout>

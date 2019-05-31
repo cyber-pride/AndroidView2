@@ -51,4 +51,5 @@
     <string name="chipfontandtextsize">Chip Font And Textsize</string>
     <string name="badgedrawable">BadgeDrawable</string>
     <string name="badgenumber">Badge Number</string>
+    <string name="user">User</string>
 </resources>
