@@ -1,0 +1,126 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_canvasactivity2"
+        android:title="@string/rectangle"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity3"
+        android:title="@string/circle"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity4"
+        android:title="@string/triangle"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity5"
+        android:title="@string/square"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity6"
+        android:title="@string/svgincanvas"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity7"
+        android:title="@string/drawbitmap"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity8"
+        android:title="@string/straightline"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity9"
+        android:title="@string/curveline"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity10"
+        android:title="@string/drawtext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity11"
+        android:title="@string/shapeoutside"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity12"
+        android:title="@string/centertext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity13"
+        android:title="@string/measuretext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity14"
+        android:title="@string/drawcanvas"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity15"
+        android:title="@string/rotate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity16"
+        android:title="@string/scale"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity17"
+        android:title="@string/canvastobitmap"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity18"
+        android:title="@string/undocanvas"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity19"
+        android:title="@string/movetext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity20"
+        android:title="@string/moveimage"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canvasactivity21"
+        android:title="@string/drawcubic"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+</menu>

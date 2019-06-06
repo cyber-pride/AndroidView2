@@ -52,4 +52,24 @@
     <string name="badgedrawable">BadgeDrawable</string>
     <string name="badgenumber">Badge Number</string>
     <string name="user">User</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="circle">Circle</string>
+    <string name="triangle">Triangle</string>
+    <string name="square">Square</string>
+    <string name="svgincanvas">Svg In Canvas</string>
+    <string name="drawbitmap">Draw Bitmap</string>
+    <string name="straightline">Straight Line</string>
+    <string name="curveline">Curved Line</string>
+    <string name="drawtext">Draw Text</string>
+    <string name="shapeoutside">Shape Outside</string>
+    <string name="centertext">Center Text</string>
+    <string name="measuretext">Measure Text</string>
+    <string name="drawcanvas">Draw Canvas</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale Canvas</string>
+    <string name="canvastobitmap">Canvas To Bitmap</string>
+    <string name="undocanvas">Undo Canvas</string>
+    <string name="moveimage">Move Image</string>
+    <string name="movetext">Move Text</string>
+    <string name="drawcubic">Draw Cubic</string>
 </resources>

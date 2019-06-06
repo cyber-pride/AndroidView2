@@ -38,6 +38,7 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui-database:4.3.1'
     implementation 'androidx.paging:paging-runtime:2.1.0'
     implementation 'com.shreyaspatil:FirebaseRecyclerPagination:1.0.1'
+    implementation 'com.caverock:androidsvg-aar:1.4'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'

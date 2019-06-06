@@ -6,6 +6,7 @@ import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bluapp.androidview2.AndroidChip.AndroidChipActivity1;
+import com.bluapp.androidview2.Canvas.CanvasActivity1;
 import com.bluapp.androidview2.Firebase.FirebaseActivity1;
 import com.bluapp.androidview2.Firestore.FirestoreActivity1;
 
@@ -27,6 +28,10 @@ public class ViewActivity extends AppCompatActivity {
 
     public void AndroidChip(View view){
         startActivity(new Intent(ViewActivity.this, AndroidChipActivity1.class));
+    }
+
+    public void Canvas(View view){
+        startActivity(new Intent(ViewActivity.this, CanvasActivity1.class));
     }
 
     }

@@ -16,6 +16,27 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Canvas.CanvasActivity11"></activity>
+        <activity android:name=".Canvas.CanvasActivity21" />
+        <activity android:name=".Canvas.CanvasActivity20" />
+        <activity android:name=".Canvas.CanvasActivity19" />
+        <activity android:name=".Canvas.CanvasActivity18" />
+        <activity android:name=".Canvas.CanvasActivity17" />
+        <activity android:name=".Canvas.CanvasActivity16" />
+        <activity android:name=".Canvas.CanvasActivity15" />
+        <activity android:name=".Canvas.CanvasActivity14" />
+        <activity android:name=".Canvas.CanvasActivity13" />
+        <activity android:name=".Canvas.CanvasActivity12" />
+        <activity android:name=".Canvas.CanvasActivity10" />
+        <activity android:name=".Canvas.CanvasActivity9" />
+        <activity android:name=".Canvas.CanvasActivity8" />
+        <activity android:name=".Canvas.CanvasActivity7" />
+        <activity android:name=".Canvas.CanvasActivity6" />
+        <activity android:name=".Canvas.CanvasActivity5" />
+        <activity android:name=".Canvas.CanvasActivity4" />
+        <activity android:name=".Canvas.CanvasActivity3" />
+        <activity android:name=".Canvas.CanvasActivity2" />
+        <activity android:name=".Canvas.CanvasActivity1" />
         <activity android:name=".ViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
