@@ -2,6 +2,7 @@ package com.bluapp.androidview2.Firebase;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.lifecycle.LifecycleOwner;
 import androidx.paging.PagedList;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -40,7 +41,7 @@ public class FirebaseActivity9 extends AppCompatActivity {
                 .setPageSize(10)
                 .build();
         DatabasePagingOptions<Data> options = new DatabasePagingOptions.Builder<Data>()
-                .setLifecycleOwner(this)
+                .setLifecycleOwner((LifecycleOwner) this)
                 .setQuery(mDatabase, config, Data.class)
                 .build();
 

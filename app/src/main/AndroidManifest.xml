@@ -7,6 +7,9 @@
     <dist:module dist:instant="true" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -16,7 +19,27 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Canvas.CanvasActivity11"></activity>
+        <activity android:name=".AndroidChart.AndroidChartActivity20"></activity>
+        <activity android:name=".AndroidChart.AndroidChartActivity19" />
+        <activity android:name=".AndroidChart.AndroidChartActivity18" />
+        <activity android:name=".AndroidChart.AndroidChartActivity17" />
+        <activity android:name=".AndroidChart.AndroidChartActivity16" />
+        <activity android:name=".AndroidChart.AndroidChartActivity15" />
+        <activity android:name=".AndroidChart.AndroidChartActivity14" />
+        <activity android:name=".AndroidChart.AndroidChartActivity13" />
+        <activity android:name=".AndroidChart.AndroidChartActivity12" />
+        <activity android:name=".AndroidChart.AndroidChartActivity11" />
+        <activity android:name=".AndroidChart.AndroidChartActivity10" />
+        <activity android:name=".AndroidChart.AndroidChartActivity9" />
+        <activity android:name=".AndroidChart.AndroidChartActivity8" />
+        <activity android:name=".AndroidChart.AndroidChartActivity7" />
+        <activity android:name=".AndroidChart.AndroidChartActivity6" />
+        <activity android:name=".AndroidChart.AndroidChartActivity5" />
+        <activity android:name=".AndroidChart.AndroidChartActivity4" />
+        <activity android:name=".AndroidChart.AndroidChartActivity3" />
+        <activity android:name=".AndroidChart.AndroidChartActivity2" />
+        <activity android:name=".AndroidChart.AndroidChartActivity1" />
+        <activity android:name=".Canvas.CanvasActivity11" />
         <activity android:name=".Canvas.CanvasActivity21" />
         <activity android:name=".Canvas.CanvasActivity20" />
         <activity android:name=".Canvas.CanvasActivity19" />

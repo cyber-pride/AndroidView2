@@ -1,0 +1,119 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_androidchartactivity2"
+        android:title="@string/piechart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity3"
+        android:title="@string/barchart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity4"
+        android:title="@string/horizontalbarchart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity5"
+        android:title="@string/scatterchart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity6"
+        android:title="@string/candlestickchart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity7"
+        android:title="@string/bubblechart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity8"
+        android:title="@string/radarchart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity9"
+        android:title="@string/linechartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity10"
+        android:title="@string/barchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity11"
+        android:title="@string/piechartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity12"
+        android:title="@string/columnchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity13"
+        android:title="@string/venndiagramchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity14"
+        android:title="@string/radarchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity15"
+        android:title="@string/tagcloudchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity16"
+        android:title="@string/waterfallchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity17"
+        android:title="@string/scatterchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity18"
+        android:title="@string/rangechartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity19"
+        android:title="@string/polarchartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_androidchartactivity20"
+        android:title="@string/bubblechartanychart"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

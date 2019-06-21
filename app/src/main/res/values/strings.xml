@@ -72,4 +72,23 @@
     <string name="moveimage">Move Image</string>
     <string name="movetext">Move Text</string>
     <string name="drawcubic">Draw Cubic</string>
+    <string name="piechart">Pie Chart</string>
+    <string name="barchart">Bar Chart</string>
+    <string name="horizontalbarchart">Horizontal Bar Chart</string>
+    <string name="scatterchart">Scatter Chart</string>
+    <string name="candlestickchart">CandleStick Chart</string>
+    <string name="bubblechart">Bubble Chart</string>
+    <string name="radarchart">Radar Chart</string>
+    <string name="linechartanychart">Line Chart AnyChart</string>
+    <string name="barchartanychart">Bar Chart AnyChart</string>
+    <string name="piechartanychart">Pie Chart AnyChart</string>
+    <string name="columnchartanychart">Column Chart AnyChart</string>
+    <string name="venndiagramchartanychart">Venn Diagram Chart AnyChart</string>
+    <string name="radarchartanychart">Radar Chart AnyChart</string>
+    <string name="tagcloudchartanychart">Tag Cloud Chart AnyChart</string>
+    <string name="waterfallchartanychart">Water Fall Chart AnyChart</string>
+    <string name="scatterchartanychart">Scatter Chart AnyChart</string>
+    <string name="rangechartanychart">Range Chart AnyChart</string>
+    <string name="polarchartanychart">Polar Chart AnyChart</string>
+    <string name="bubblechartanychart">Bubble Chart AnyChart</string>
 </resources>

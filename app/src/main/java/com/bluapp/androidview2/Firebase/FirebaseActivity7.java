@@ -1,6 +1,7 @@
 package com.bluapp.androidview2.Firebase;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.lifecycle.LifecycleOwner;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
@@ -22,7 +23,7 @@ public class FirebaseActivity7 extends AppCompatActivity {
         body = (TextView)findViewById(R.id.body);
         ViewModel7 viewModel7 = ViewModelProviders.of(this).get(ViewModel7.class);
         LiveData<DataSnapshot>liveData = viewModel7.getdataSnapshotLiveData();
-        liveData.observe(this, new Observer<DataSnapshot>() {
+        liveData.observe((LifecycleOwner) this, new Observer<DataSnapshot>() {
             @Override
             public void onChanged(DataSnapshot dataSnapshot) {
                 if(dataSnapshot != null){

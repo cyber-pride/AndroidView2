@@ -58,5 +58,18 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/androidchart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:onClick="AndroidChart"
+            android:layout_marginTop="1dp"
+            android:text="Android Chart"
+            android:layout_below="@id/canvas"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
     </RelativeLayout>
 </ScrollView>
