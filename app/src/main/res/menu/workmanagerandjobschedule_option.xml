@@ -1,0 +1,120 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity2"
+        android:title="@string/periodictask"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity3"
+        android:title="@string/schedulework"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity4"
+        android:title="@string/startworkbr"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity5"
+        android:title="@string/checkwork"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity6"
+        android:title="@string/updateui"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity7"
+        android:title="@string/schedulenotification"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity8"
+        android:title="@string/workdata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity9"
+        android:title="@string/sequentwork"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity10"
+        android:title="@string/cancelwork"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity11"
+        android:title="@string/workupdateroomdb"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity12"
+        android:title="@string/reschedulework"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity13"
+        android:title="@string/uploadimage"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity14"
+        android:title="@string/jobscheduler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity15"
+        android:title="@string/immediatejob"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity16"
+        android:title="@string/periodicjob"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity17"
+        android:title="@string/notificationjob"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity18"
+        android:title="@string/settimer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity19"
+        android:title="@string/countdowntimer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_workmanagerandjobscheduleactivity20"
+        android:title="@string/canceltimer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+</menu>

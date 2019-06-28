@@ -10,6 +10,7 @@ import com.bluapp.androidview2.AndroidChip.AndroidChipActivity1;
 import com.bluapp.androidview2.Canvas.CanvasActivity1;
 import com.bluapp.androidview2.Firebase.FirebaseActivity1;
 import com.bluapp.androidview2.Firestore.FirestoreActivity1;
+import com.bluapp.androidview2.WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity1;
 
 public class ViewActivity extends AppCompatActivity {
 
@@ -37,6 +38,10 @@ public class ViewActivity extends AppCompatActivity {
 
     public void AndroidChart(View view){
         startActivity(new Intent(ViewActivity.this, AndroidChartActivity1.class));
+    }
+
+    public void WorkManagerAndJobSchedule(View view){
+        startActivity(new Intent(ViewActivity.this, WorkManagerAndJobScheduleActivity1.class));
     }
 
     }

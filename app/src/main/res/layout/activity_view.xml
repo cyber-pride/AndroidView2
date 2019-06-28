@@ -71,5 +71,18 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/workmanagerandjobschedule"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:onClick="WorkManagerAndJobSchedule"
+            android:layout_marginTop="1dp"
+            android:text="WorkManager And JobSchedule"
+            android:layout_below="@id/androidchart"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
     </RelativeLayout>
 </ScrollView>

@@ -91,4 +91,23 @@
     <string name="rangechartanychart">Range Chart AnyChart</string>
     <string name="polarchartanychart">Polar Chart AnyChart</string>
     <string name="bubblechartanychart">Bubble Chart AnyChart</string>
+    <string name="periodictask">Periodic Task</string>
+    <string name="schedulework">Schedule Work</string>
+    <string name="startworkbr">Start Work With BR</string>
+    <string name="checkwork">Check Work</string>
+    <string name="updateui">Update Ui</string>
+    <string name="schedulenotification">Schedule Notification</string>
+    <string name="workdata">Work Data</string>
+    <string name="cancelwork">Cancel Work</string>
+    <string name="sequentwork">Sequent Work</string>
+    <string name="workupdateroomdb">Work Update Room db</string>
+    <string name="reschedulework">ReSchedule Work</string>
+    <string name="uploadimage">Upload Image</string>
+    <string name="jobscheduler">Job Scheduler</string>
+    <string name="immediatejob">Immediate Job</string>
+    <string name="periodicjob">Periodic Job</string>
+    <string name="notificationjob">Notification Job</string>
+    <string name="settimer">Set Timer</string>
+    <string name="countdowntimer">CountDown Timer</string>
+    <string name="canceltimer">Cancel Timer</string>
 </resources>

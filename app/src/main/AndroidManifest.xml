@@ -19,7 +19,54 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".AndroidChart.AndroidChartActivity20"></activity>
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity20"></activity>
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity19" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity18" />
+
+        <service
+            android:name=".WorkManagerAndJobSchedule.JobScheduler17"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity17" />
+
+        <service
+            android:name=".WorkManagerAndJobSchedule.JobScheduler16"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity16" />
+
+        <service
+            android:name=".WorkManagerAndJobSchedule.JobScheduler15"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity15" />
+
+        <service
+            android:name=".WorkManagerAndJobSchedule.JobScheduler14"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity14" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity13" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity12" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity11" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity10" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity9" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity8" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity7" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity6" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity5" />
+
+        <receiver android:name=".WorkManagerAndJobSchedule.BroadcastReceiver4">
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity4" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity3" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity2" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity1" />
+        <activity android:name=".AndroidChart.AndroidChartActivity20" />
         <activity android:name=".AndroidChart.AndroidChartActivity19" />
         <activity android:name=".AndroidChart.AndroidChartActivity18" />
         <activity android:name=".AndroidChart.AndroidChartActivity17" />
