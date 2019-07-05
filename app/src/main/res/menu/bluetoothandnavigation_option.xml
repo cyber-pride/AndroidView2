@@ -1,0 +1,112 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation2"
+        android:title="@string/enableordisable"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation3"
+        android:title="@string/implementbluetooth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation4"
+        android:title="@string/bluetoothchat"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation5"
+        android:title="@string/sendfile"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation6"
+        android:title="@string/bluetoothdebug"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation8"
+        android:title="@string/serialdata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation9"
+        android:title="@string/blepairing"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation10"
+        android:title="@string/bluetoothpairing"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation11"
+        android:title="@string/navcomponent"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation12"
+        android:title="@string/navbackstack"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation13"
+        android:title="@string/navbottom"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation14"
+        android:title="@string/navonbackpressed"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation15"
+        android:title="@string/navvisiblefragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation16"
+        android:title="@string/navfinish"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation17"
+        android:title="@string/saverestorestate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation18"
+        android:title="@string/argfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation19"
+        android:title="@string/navdrawer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bluetoothandnavigation20"
+        android:title="@string/livedataandviewmodel"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

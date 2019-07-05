@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph4"
+    app:startDestination="@id/navFragment14">
+
+    <fragment
+        android:id="@+id/navFragment14"
+        android:name="com.bluapp.androidview2.BluetoothAndNavigation.NavFragment14"
+        android:label="fragment_nav_fragment14"
+        tools:layout="@layout/fragment_nav_fragment14" />
+
+
+</navigation>

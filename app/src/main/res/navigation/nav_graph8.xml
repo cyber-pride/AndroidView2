@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph8"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.bluapp.androidview2.BluetoothAndNavigation.NavFragment18"
+        android:label="fragment_nav_fragment18"
+        tools:layout="@layout/fragment_nav_fragment18">
+        <argument
+            android:name="tabName"
+            android:defaultValue="Home Fragment"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/directionFragment"
+        android:name="com.bluapp.androidview2.BluetoothAndNavigation.NavFragment18"
+        android:label="fragment_nav_fragment18"
+        tools:layout="@layout/fragment_nav_fragment18">
+        <argument
+            android:name="tabName"
+            android:defaultValue="Direction Fragment"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/commentFragment"
+        android:name="com.bluapp.androidview2.BluetoothAndNavigation.NavFragment18"
+        android:label="fragment_nav_fragment18"
+        tools:layout="@layout/fragment_nav_fragment18">
+        <argument
+            android:name="tabName"
+            android:defaultValue="Comment Fragment"/>
+    </fragment>
+</navigation>

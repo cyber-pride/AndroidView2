@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph2"
+    app:startDestination="@id/navFragment12">
+
+    <fragment
+        android:id="@+id/navFragment12"
+        android:name="com.bluapp.androidview2.BluetoothAndNavigation.NavFragment12"
+        android:label="fragment_nav_fragment12"
+        tools:layout="@layout/fragment_nav_fragment12">
+        <action
+            android:id="@+id/maintoSecond"
+            app:destination="@id/navSecFragment"/>
+    </fragment>
+    <fragment
+        android:id="@+id/navSecFragment"
+        android:name="com.bluapp.androidview2.BluetoothAndNavigation.NavSecFragment"
+        android:label="fragment_nav_sec"
+        tools:layout="@layout/fragment_nav_sec">
+    <action
+        android:id="@+id/navSecFragmenttonavFragment12"
+        app:destination="@id/navFragment12"
+        app:popUpTo="@id/navFragment12"
+        app:popUpToInclusive="true"/>
+    </fragment>
+
+
+</navigation>

@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.bluapp.androidview2.AndroidChart.AndroidChartActivity1;
 import com.bluapp.androidview2.AndroidChip.AndroidChipActivity1;
+import com.bluapp.androidview2.BluetoothAndNavigation.BluetoothAndNavigationActivity1;
 import com.bluapp.androidview2.Canvas.CanvasActivity1;
 import com.bluapp.androidview2.Firebase.FirebaseActivity1;
 import com.bluapp.androidview2.Firestore.FirestoreActivity1;
@@ -42,6 +43,10 @@ public class ViewActivity extends AppCompatActivity {
 
     public void WorkManagerAndJobSchedule(View view){
         startActivity(new Intent(ViewActivity.this, WorkManagerAndJobScheduleActivity1.class));
+    }
+
+    public void BluetoothAndNavigation(View view){
+        startActivity(new Intent(ViewActivity.this, BluetoothAndNavigationActivity1.class));
     }
 
     }

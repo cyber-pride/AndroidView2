@@ -110,4 +110,24 @@
     <string name="settimer">Set Timer</string>
     <string name="countdowntimer">CountDown Timer</string>
     <string name="canceltimer">Cancel Timer</string>
+    <string name="enableordisable">Enable or Disable Blu</string>
+    <string name="implementbluetooth">Implement Bluetooth</string>
+    <string name="bluetoothchat">Bluetooth Chat</string>
+    <string name="sendfile">Send File</string>
+    <string name="bluetoothdebug">Bluetooth Debug</string>
+    <string name="bluetoothpairing">Bluetooth Pairing</string>
+    <string name="serialdata">Serial Data</string>
+    <string name="navcomponent">Nav Component</string>
+    <string name="blepairing">Ble Pairing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navbackstack">Nav BackStack</string>
+    <string name="navbottom">Nav Bottom</string>
+    <string name="navonbackpressed">Nav onBackPressed</string>
+    <string name="navvisiblefragment">Nav Visible Fragment</string>
+    <string name="navfinish">Nav Finish</string>
+    <string name="saverestorestate">Save Restore State</string>
+    <string name="argfragment">Arg Fragment</string>
+    <string name="navdrawer">Nav Drawer</string>
 </resources>

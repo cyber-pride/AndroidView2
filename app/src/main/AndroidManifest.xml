@@ -10,6 +10,10 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -19,7 +23,28 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity20"></activity>
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity20"></activity>
+        <activity
+            android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity19"
+            android:theme="@style/NavTheme" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity18" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity17" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity16" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity15" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity14" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity13" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity12" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity9" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity11" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity8" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity10" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity6" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity5" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity4" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity3" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity2" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity1" />
+        <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity20" />
         <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity19" />
         <activity android:name=".WorkManagerAndJobSchedule.WorkManagerAndJobScheduleActivity18" />
 
