@@ -3,6 +3,12 @@
     xmlns:dist="http://schemas.android.com/apk/distribution"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.bluapp.androidview2">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <dist:module dist:instant="true" />
 
@@ -12,7 +18,6 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
@@ -23,7 +28,55 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity20"></activity>
+        <activity android:name=".MapAndService.MapAndServiceActivity20"></activity>
+        <activity android:name=".MapAndService.MapAndServiceActivity19" />
+        <activity android:name=".MapAndService.MapAndServiceActivity18" />
+        <activity android:name=".MapAndService.MapAndServiceActivity17" />
+        <activity android:name=".MapAndService.MapAndServiceActivity16" />
+        <activity android:name=".MapAndService.MapAndServiceActivity15" />
+
+        <receiver android:name=".MapAndService.BrService4">
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".MapAndService.Service20" />
+        <service android:name=".MapAndService.Service19" />
+        <service android:name=".MapAndService.Service18" />
+        <service android:name=".MapAndService.Service17" />
+        <service android:name=".MapAndService.Service16" />
+        <service android:name=".MapAndService.Service15" />
+        <service android:name=".MapAndService.Service14" />
+        <service android:name=".MapAndService.Service13" />
+
+        <activity android:name=".MapAndService.MapAndServiceActivity14" />
+        <activity android:name=".MapAndService.MapAndServiceActivity13" />
+        <activity android:name=".MapAndService.MapAndServiceActivity12" />
+        <activity android:name=".MapAndService.MapAndServiceActivity11" />
+        <activity android:name=".MapAndService.MapAndServiceActivity10" />
+        <activity android:name=".MapAndService.MapAndServiceActivity9" />
+        <activity android:name=".MapAndService.MapAndServiceActivity8" />
+        <activity android:name=".MapAndService.MapAndServiceActivity7" />
+        <activity android:name=".MapAndService.MapAndServiceActivity6" />
+        <activity android:name=".MapAndService.MapAndServiceActivity5" />
+        <activity android:name=".MapAndService.MapAndServiceActivity4" />
+        <activity android:name=".MapAndService.MapAndServiceActivity3" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity android:name=".MapAndService.MapAndServiceActivity2" />
+        <activity android:name=".MapAndService.MapAndServiceActivity1" />
+        <activity android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity20" />
         <activity
             android:name=".BluetoothAndNavigation.BluetoothAndNavigationActivity19"
             android:theme="@style/NavTheme" />

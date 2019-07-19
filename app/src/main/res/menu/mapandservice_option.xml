@@ -1,0 +1,117 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_mapandservice2"
+        android:title="@string/custommarker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice3"
+        android:title="@string/zoomallmarker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice4"
+        android:title="@string/custominfowindow"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice5"
+        android:title="@string/onclickonlongpress"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice6"
+        android:title="@string/currentlocation"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice7"
+        android:title="@string/newmarker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice8"
+        android:title="@string/mapviewtype"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice9"
+        android:title="@string/displayfirestore"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice10"
+        android:title="@string/mapfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice11"
+        android:title="@string/locationservice"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice12"
+        android:title="@string/locationupdate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice13"
+        android:title="@string/servicerunning"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice14"
+        android:title="@string/intentservice"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice15"
+        android:title="@string/communicateservice"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice16"
+        android:title="@string/startactivity"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice17"
+        android:title="@string/stopservice"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice18"
+        android:title="@string/brservice"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice19"
+        android:title="@string/notification"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mapandservice20"
+        android:title="@string/bindservice"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
