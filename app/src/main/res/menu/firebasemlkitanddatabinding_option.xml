@@ -1,0 +1,82 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding2"
+        android:title="@string/scanbarcode"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding3"
+        android:title="@string/recognizedtext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding4"
+        android:title="@string/facedetection"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding5"
+        android:title="@string/identifylandmark"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding6"
+        android:title="@string/labelimage"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding11"
+        android:title="@string/baseobservable"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding12"
+        android:title="@string/observableclass"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding13"
+        android:title="@string/observablefields"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding14"
+        android:title="@string/observablearraymap"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding15"
+        android:title="@string/bindclickevent"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding16"
+        android:title="@string/bindrecyclerview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding17"
+        android:title="@string/bindimageview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_firebasemlkitanddatabinding18"
+        android:title="@string/twowaydatabinding"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

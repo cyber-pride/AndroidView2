@@ -110,5 +110,18 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/firebasemlkitanddatabinding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:onClick="FirebaseMlKitAndDataBinding"
+            android:layout_marginTop="1dp"
+            android:text="FirebaseMlKit And DataBinding"
+            android:layout_below="@id/mapandservice"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
     </RelativeLayout>
 </ScrollView>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="model"
+            type="com.bluapp.androidview2.firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity16.CountryModel" />
+
+        <variable
+            name="itemClickListner"
+            type="com.bluapp.androidview2.firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity16.CustomClickListner" />
+    </data>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="@{() -> itemClickListner.cardClicked(model)}"
+        app:cardUseCompatPadding="true">
+
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_margin="8dp">
+
+           <TextView
+               android:id="@+id/country"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="@{model.countryName}" />
+
+       </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+</layout>

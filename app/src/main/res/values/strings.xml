@@ -154,4 +154,17 @@
     <string name="brservice">Br Service</string>
     <string name="notification">Notification</string>
     <string name="bindservice">Bind Service</string>
+    <string name="scanbarcode">Scan Barcode</string>
+    <string name="recognizedtext">Recognized Text</string>
+    <string name="facedetection">Face Detection</string>
+    <string name="identifylandmark">Identify Landmark</string>
+    <string name="labelimage">Label Image</string>
+    <string name="twowaydatabinding">Two Way Data Binding</string>
+    <string name="bindimageview">Bind ImageView</string>
+    <string name="bindrecyclerview">Bind Recyclerview</string>
+    <string name="bindclickevent">Bind ClickEvent</string>
+    <string name="observablearraymap">ObservableArrayMap</string>
+    <string name="observablefields">ObservableFields</string>
+    <string name="observableclass">ObservableClass</string>
+    <string name="baseobservable">BaseObservable</string>
 </resources>

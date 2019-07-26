@@ -3,12 +3,6 @@
     xmlns:dist="http://schemas.android.com/apk/distribution"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.bluapp.androidview2">
-    <!--
-         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
-         Google Maps Android API v2, but you must specify either coarse or fine
-         location permissions for the 'MyLocation' functionality.
-    -->
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <dist:module dist:instant="true" />
 
@@ -19,6 +13,7 @@
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -28,7 +23,26 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".MapAndService.MapAndServiceActivity20"></activity>
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity11"></activity>
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity12" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity13" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity14" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity15" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity16" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity17" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity18" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity6" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity5" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity4" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity3" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity2" />
+
+        <meta-data
+            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+            android:value="barcode,face,ocr,ica" />
+
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity1" />
+        <activity android:name=".MapAndService.MapAndServiceActivity20" />
         <activity android:name=".MapAndService.MapAndServiceActivity19" />
         <activity android:name=".MapAndService.MapAndServiceActivity18" />
         <activity android:name=".MapAndService.MapAndServiceActivity17" />
