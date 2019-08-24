@@ -123,5 +123,18 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/devicefeatures"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:onClick="DeviceFeatures"
+            android:layout_marginTop="1dp"
+            android:text="Device Features"
+            android:layout_below="@id/firebasemlkitanddatabinding"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
     </RelativeLayout>
 </ScrollView>

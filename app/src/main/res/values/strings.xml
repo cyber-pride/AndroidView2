@@ -167,4 +167,24 @@
     <string name="observablefields">ObservableFields</string>
     <string name="observableclass">ObservableClass</string>
     <string name="baseobservable">BaseObservable</string>
+    <string name="phonecall">Phone Call</string>
+    <string name="sendemail">Send Email</string>
+    <string name="sendemailprog">Send Email Prog</string>
+    <string name="scanqrcode">Scan Qr Code</string>
+    <string name="renderhtmltag">Render Html Tag</string>
+    <string name="contactlist">Contact List</string>
+    <string name="changelaunchericon">Change Launcher Icon</string>
+    <string name="customtoast">Custom Toast</string>
+    <string name="hexadecimalcolor">Hexadecimal Color</string>
+    <string name="audiofromasset">Audio From Asset</string>
+    <string name="defaultringtone">Default Ring Tone</string>
+    <string name="vibratephone">Vibrate Phone</string>
+    <string name="fingerprintauth">Fingerprint Auth</string>
+    <string name="shakedetector">Shake Detector</string>
+    <string name="proximitysensor">Proximity Sensor</string>
+    <string name="gyroscopesensor">Gyroscope Sensor</string>
+    <string name="firebasepushnoti">Firebase Push Noti</string>
+    <string name="geofencing">Geofencing</string>
+    <string name="startgeofence">Start Geofence</string>
+    <string name="foregroundnoti">Foreground Noti</string>
 </resources>

@@ -1,0 +1,119 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_devicefeatures2"
+        android:title="@string/phonecall"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures3"
+        android:title="@string/sendemail"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures4"
+        android:title="@string/sendemailprog"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures5"
+        android:title="@string/scanqrcode"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures6"
+        android:title="@string/renderhtmltag"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures7"
+        android:title="@string/contactlist"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures8"
+        android:title="@string/changelaunchericon"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures9"
+        android:title="@string/customtoast"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures10"
+        android:title="@string/hexadecimalcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures11"
+        android:title="@string/firebasepushnoti"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures12"
+        android:title="@string/foregroundnoti"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures13"
+        android:title="@string/geofencing"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures14"
+        android:title="@string/gyroscopesensor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures15"
+        android:title="@string/proximitysensor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures16"
+        android:title="@string/shakedetector"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures17"
+        android:title="@string/fingerprintauth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures18"
+        android:title="@string/vibratephone"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures19"
+        android:title="@string/defaultringtone"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devicefeatures20"
+        android:title="@string/audiofromasset"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

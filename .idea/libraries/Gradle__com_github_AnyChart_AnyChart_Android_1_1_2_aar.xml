@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnyChart:AnyChart-Android:1.1.2@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9439947be61c97e646f5219a911987ad/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9439947be61c97e646f5219a911987ad/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3dddca49176f671b829095582f98b245/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3dddca49176f671b829095582f98b245/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

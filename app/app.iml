@@ -101,6 +101,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_base_class_logs_dependency_artifacts" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_dependency_artifacts" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/data_binding_layout_info_type_merge" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/duplicate_classes_check" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/feature_data_binding_base_feature_info" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
@@ -142,6 +143,7 @@
     <orderEntry type="library" name="Gradle: de.hdodenhof:circleimageview:3.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0-rc01@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.work:work-runtime:2.1.0-beta02@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.zxing:core:3.3.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:19.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
@@ -153,6 +155,7 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision:18.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-image-label:18.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Android Studio\AndroidView2\app\libs\additional.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:protolite-well-known-types:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.media:media:1.0.0@aar" level="project" />
@@ -161,6 +164,7 @@
     <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0-rc01@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Android Studio\AndroidView2\app\libs\activation.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2@jar" level="project" />
     <orderEntry type="library" name="Gradle: io.opencensus:opencensus-api:0.21.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: io.grpc:grpc-context:1.21.0@jar" level="project" />
@@ -200,6 +204,7 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-impl:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-api:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.journeyapps:zxing-android-embedded:3.5.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.firebaseui:firebase-ui-common:4.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database-collection:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.caverock:androidsvg-aar:1.4@aar" level="project" />
@@ -219,6 +224,7 @@
     <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.retrofit2:retrofit:2.4.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Android Studio\AndroidView2\app\libs\mail.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ml-common:20.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.paging:paging-common:2.1.0@jar" level="project" />

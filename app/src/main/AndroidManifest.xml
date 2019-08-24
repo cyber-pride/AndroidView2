@@ -14,6 +14,11 @@
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
 
     <application
         android:allowBackup="true"
@@ -23,7 +28,46 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity11"></activity>
+
+        <service android:name=".DeviceFeatures.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity12" />
+
+
+        <service android:name=".DeviceFeatures.MyFirebaseMessagingService11">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity11" />
+
+        <service android:name=".DeviceFeatures.GeofenceService" />
+
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity13" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity14" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity15" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity16" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity17" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity18" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity19" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity20" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity10" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity9" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity8" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity7" />
+        <activity android:name=".DeviceFeatures.ScanActivity" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity6" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity5" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity4" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity3" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity2" />
+        <activity android:name=".DeviceFeatures.DeviceFeaturesActivity1" />
+        <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity11" />
         <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity12" />
         <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity13" />
         <activity android:name=".firebaseMlKitAndDataBinding.FirebaseMlKitAndDataBindingActivity14" />
